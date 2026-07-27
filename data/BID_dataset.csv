@@ -1,0 +1,971 @@
+date,ip,attack_type,threat_theme,threat_level,is_malicious,abuseip_score,usage_type,abuseip_categories,abuseip_distinct_users,abuseip_last_reported,country,asn,isp,infra_owner
+22-04-26,1.0.148.170,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-11-26T17:23:53+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,66.249.68.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS15169,Google,Google
+22-04-26,34.146.150.144,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-09-06T07:42:52+00:00,Japan,AS396982,Google,Google
+22-04-26,104.255.58.44,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS16509,Amazon,Amazon
+22-04-26,104.40.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2022-10-01T07:00:15+00:00,United States,AS8075,Microsoft,Microsoft
+29-08-25,167.88.164.166,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14956,RouterHosting,FranTech
+22-04-26,1.0.148.55,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,13.130.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,79.116.20.17,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Spain,AS57269,Digi Spain S.L.U,Digi Spain S.A
+12-05-25,223.184.254.150,exploit_delivery,general_threat,2,1,0,Mobile ISP,19,1,2026-03-13T17:42:14+00:00,India,AS45609,Airtel,Airtel
+29-08-25,172.86.102.83,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-06-10T02:54:18+00:00,United States,AS14956,RouterHosting,FranTech
+29-08-25,172.86.70.73,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS14956,RouterHosting,FranTech
+22-04-26,13.107.219.0,none,verified_service,0,0,0,Content Delivery Network,No_Reports,0,Never_Reported,Canada,AS8075,Microsoft,Microsoft
+22-04-26,102.37.24.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+29-08-25,45.61.154.130,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United Kingdom,AS198983,FranTech,RouterHosting
+22-04-26,1.0.153.172,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2021-06-17T05:58:34+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,111.125.138.29,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,India,AS45232,Spacenet,509 Jaina tower 1st District
+23-07-25,188.130.206.168,espionage,general_threat,4,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-07-23T21:31:24+00:00,Finland,AS56971,CGI GLOBAL,CGI GLOBAL
+22-04-26,34.126.178.96,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS396982,Google,Google
+20-02-26,147.45.45.110,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Netherlands,AS205775,Neon Core,Partner
+22-04-26,45.90.28.41,none,verified_service,0,0,0,Content Delivery Network,No_Reports,0,Never_Reported,United States,AS34939,nextdns,nextdns
+22-04-26,185.189.100.211,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS47895,Erline,Rline
+22-04-26,8.20.247.55,none,verified_service,0,0,0,Content Delivery Network,No_Reports,0,Never_Reported,United States,AS23393,Flexential,DNS
+22-04-26,13.107.246.0,none,verified_service,0,0,0,Content Delivery Network,No_Reports,0,Never_Reported,Canada,AS8075,Microsoft,Microsoft
+12-05-25,188.166.87.88,exploit_delivery,general_threat,2,1,2,Data Center/Web Hosting/Transit,18,1,2026-04-07T14:44:57+00:00,Netherlands,AS14061,DigitalOcean,DigitalOcean
+22-04-26,1.241.99.248,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,South Korea,AS9318,SK,broadNnet
+22-04-26,150.171.40.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,104.255.56.28,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,23.103.160.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Japan,AS8075,Microsoft,Microsoft
+22-04-26,104.255.59.122,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,India,AS16509,Amazon,Amazon
+29-08-25,172.86.101.123,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14956,RouterHosting,FranTech
+22-04-26,58.82.128.73,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2023-12-28T20:30:30+00:00,Thailand,AS55423,JasTel,Unknown
+22-04-26,61.100.13.46,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Korea,AS9952,Sejong,Hostway
+01-02-26,146.0.41.206,espionage,mobile_devices,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS24961,WIIT AG,Myloc De Steffenruehl
+22-04-26,1.178.86.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,34.89.198.80,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,"14,15,18,20,21",3,2026-04-12T07:04:54+00:00,Germany,AS396982,Google,Google
+22-04-26,156.200.99.53,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-12-16T05:00:32+00:00,Egypt,AS8452,TE,Unknown
+22-04-26,103.85.104.41,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Myanmar,AS136255,International Myanmar,Unknown
+12-05-25,205.169.39.55,exploit_delivery,general_threat,2,1,0,Fixed Line ISP,"14,15,16,18,19,20,21,22",25,2026-04-21T20:32:06+00:00,United States,AS3356,CenturyLink,Palo Alto
+22-04-26,104.255.59.208,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Thailand,AS16509,Amazon,Amazon
+22-04-26,13.166.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,1.0.149.53,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,66.249.72.128,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,"14,15,18,19,20,21",2,2026-04-03T01:21:56+00:00,United States,AS15169,Google,Google
+22-04-26,66.249.67.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS15169,Google,Google
+22-04-26,13.104.252.208,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+29-08-25,1.222.84.29,espionage,general_threat,1,1,0,Commercial,No_Reports,0,Never_Reported,South Korea,AS3786,LG DACOM,Boranet
+29-08-25,167.88.175.175,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS14956,RouterHosting,FranTech
+29-08-25,172.86.108.11,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-06-26T16:41:11+00:00,United States,AS14956,RouterHosting,FranTech
+22-04-26,45.90.30.143,none,verified_service,0,0,0,Content Delivery Network,No_Reports,0,Never_Reported,United States,AS34939,nextdns,nextdns
+22-04-26,58.110.197.35,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Australia,AS4804,SingTel Optus,Optus
+22-04-26,200.24.131.179,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-02-02T02:38:38+00:00,Ecuador,AS52468,UFINET Guatemala S. A,Negocios Y Telefonia Nedetel S.A
+22-04-26,103.187.98.191,none,verified_service,0,0,30,Fixed Line ISP,"14,18,19,20,21",7,2026-04-12T06:57:08+00:00,Bangladesh,AS139009,Windstream,Neajul Haque Hitu
+22-04-26,15.152.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Japan,AS16509,Amazon,Amazon
+12-05-25,107.173.135.116,exploit_delivery,general_threat,2,1,27,Data Center/Web Hosting/Transit,"18,19,14,15",12,2026-03-06T05:00:59+00:00,United States,AS36352,HostPapa,ColoCrossing
+22-04-26,103.246.148.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS16509,Amazon,Amazon
+22-04-26,91.82.105.118,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Hungary,AS12301,INVITEL Zrt,Kerepesi 3 Kft
+22-04-26,1.0.148.154,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+16-10-25,172.245.68.110,exploit_delivery,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-07-04T07:17:36+00:00,United States,AS36352,HostPapa,ColoCrossing
+22-04-26,46.229.58.57,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Ukraine,AS201948,ITKOM PE,ITKOM PE
+22-04-26,102.133.120.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+22-04-26,66.249.73.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS15169,Google,Google
+22-04-26,104.255.59.196,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Malaysia,AS16509,Amazon,Amazon
+29-08-25,172.86.106.234,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-02-06T19:01:31+00:00,United States,AS14956,RouterHosting,FranTech
+22-04-26,78.140.154.65,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Netherlands,AS35415,Webzilla B.V,Webzilla B.V
+22-04-26,102.37.176.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+22-04-26,102.37.128.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+22-04-26,46.19.100.26,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-07-16T21:44:27+00:00,Armenia,AS49800,GNC-Alfa CJSC,Smoisp
+20-02-26,134.122.154.171,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS152194,CTG Server,Rackip Consultancy Pte
+22-04-26,45.90.31.148,none,verified_service,0,0,0,Content Delivery Network,No_Reports,0,Never_Reported,United States,AS34939,nextdns,nextdns
+22-04-26,104.153.116.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,1.0.152.148,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,1.0.156.146,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,1.0.149.164,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,13.107.6.152,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8068,Microsoft,Microsoft
+22-04-26,210.213.218.169,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Philippines,AS9299,Philippine Long Distance Telephone,Philippine Long Distance Telephone
+22-04-26,88.119.17.38,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Lithuania,AS8764,Telia Lietuva,Telia Lietuva
+22-04-26,122.248.192.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS16509,Amazon,Amazon
+22-04-26,1.0.148.120,none,verified_service,0,0,0,Fixed Line ISP,"20,14,15",10,2026-02-16T03:36:29+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,104.44.88.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,1.179.14.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United Kingdom,AS16509,Amazon,Amazon
+22-04-26,13.128.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,13.106.38.148,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,192.178.5.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS15169,Google,Google
+22-04-26,181.191.162.127,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Brazil,AS267426,Aqui - ME,Gol Banda Larga
+22-04-26,1.0.217.63,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-12-07T12:42:49+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,102.133.192.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+22-04-26,102.37.160.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+22-04-26,148.77.113.94,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS6128,Cablevision,Wilson Orthopaedics
+22-04-26,1.0.150.221,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+29-08-25,45.61.149.62,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14956,RouterHosting,FranTech
+29-08-25,74.48.78.66,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-02-06T23:46:59+00:00,United States,AS35916,Multacom,TELUS
+22-04-26,34.151.74.144,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-11-14T15:14:02+00:00,Australia,AS396982,Google,Google
+22-04-26,13.107.21.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8068,Microsoft,Microsoft
+22-04-26,216.248.70.122,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS62825,Aureon,Walnut Telephone
+22-04-26,66.249.64.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS15169,Google,Google
+22-04-26,5.194.87.154,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United Arab Emirates,AS5384,EMIRATES (ETISALAT,EMIRATES (ETISALAT
+22-04-26,13.107.48.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8068,Microsoft,Microsoft
+18-02-26,104.156.239.98,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Japan,AS20473,The Constant,The Constant
+22-04-26,128.251.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Ireland,AS8075,Microsoft,Microsoft
+22-04-26,52.122.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8069,Microsoft,Microsoft
+22-04-26,13.107.4.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8068,Microsoft,Microsoft
+18-02-26,149.248.11.71,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS20473,The Constant,The Constant
+22-04-26,95.174.201.114,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS56981,ER- Holding,New Telesystems
+22-04-26,40.108.128.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,168.195.241.89,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2025-02-05T00:17:09+00:00,Brazil,AS262982,Nardi & Cano,Nardi & Cano
+22-04-26,34.80.50.80,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-10-15T22:19:30+00:00,Taiwan,AS396982,Google,Google
+22-04-26,66.249.79.128,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,18,1,2026-04-09T04:19:21+00:00,United States,AS15169,Google,Google
+22-04-26,13.107.40.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Brazil,AS8068,Microsoft,Microsoft
+22-04-26,150.171.32.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8068,Microsoft,Microsoft
+22-04-26,1.0.155.156,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-04-14T19:05:12+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,1.0.136.223,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,84.53.217.83,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-12-23T00:55:10+00:00,Russia,AS34168,Elcom ISP,Vladimir_branch_RT
+22-04-26,122.154.129.54,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS9931,Comm. Dept. National,CAT
+22-04-26,61.83.171.53,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,South Korea,AS4766,Korea,Chungbukbonbujang
+22-04-26,1.0.144.86,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,1.0.133.100,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2023-10-27T14:20:41+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,1.0.145.175,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,66.249.72.64,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,"20,14,15",1,2026-04-14T09:06:44+00:00,United States,AS15169,Google,Google
+05-09-25,44.215.108.109,brute_force,cloud_services,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14618,Amazon,Amazon
+22-04-26,1.0.0.19,none,verified_service,0,0,0,Content Delivery Network,No_Reports,0,Never_Reported,Australia,AS13335,Cloudflare,Cloudflare
+22-04-26,1.0.150.138,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2023-03-23T21:54:40+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,13.104.252.224,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,India,AS8075,Microsoft,Microsoft
+22-04-26,81.218.223.12,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Israel,AS8551,Bezeq,Bezeq
+22-04-26,1.0.145.178,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,87.19.252.102,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Italy,AS3269,Italia S.p.A. TIN EASY LITE,INTERBUSINESS
+22-04-26,186.1.180.122,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Colombia,AS27837,Dialnet de Colombia S.A,Dialnet de Colombia S.A
+22-04-26,1.0.132.140,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+29-08-25,103.253.40.199,espionage,general_threat,1,1,0,Fixed Line ISP,No_Reports,0,Never_Reported,Hong Kong,AS133398,Tele Asia,RMP Protection
+29-08-25,45.61.165.157,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14956,RouterHosting,FranTech
+22-04-26,1.4.200.157,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2025-08-20T22:45:56+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,1.172.179.226,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Taiwan,AS3462,Chunghwa,Chunghwa
+22-04-26,102.133.64.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+12-05-25,47.97.42.177,exploit_delivery,general_threat,2,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-09-13T19:26:32+00:00,China,AS37963,Alibaba,Alibaba
+22-04-26,1.0.141.217,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-12-12T06:31:16+00:00,Thailand,AS23969,TOT,TOT
+20-02-26,31.40.204.103,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Türkiye,AS44382,Fiba Operation,White Label
+22-04-26,165.73.125.194,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2021-11-15T18:51:44+00:00,South Africa,AS37611,Afrihost,AFRIHOST SP
+29-08-25,91.231.186.227,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United Kingdom,AS62240,Clouvider,BlueVPS OU
+22-04-26,104.255.59.130,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Australia,AS16509,Amazon,Amazon
+22-04-26,1.0.150.170,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2021-04-01T03:20:58+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,13.105.14.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,13.107.224.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8075,Microsoft,Microsoft
+22-04-26,34.147.110.144,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-08-01T06:40:57+00:00,Netherlands,AS396982,Google,Google
+22-04-26,67.182.97.110,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS7922,Comcast,Comcast
+29-08-25,190.131.194.90,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Colombia,AS262191,Columbus,Liberty
+22-04-26,1.0.156.233,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+01-02-26,146.0.41.207,espionage,mobile_devices,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS24961,WIIT AG,Myloc De Steffenruehl
+22-04-26,103.183.68.8,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Bangladesh,AS149638,Elma Multimedia,Asif Chowdhury
+22-04-26,116.129.226.128,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-01-06T15:21:28+00:00,China,AS10206,China Unicom,Amazon
+22-04-26,1.0.150.137,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2025-12-22T23:40:10+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,104.255.57.176,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,46.253.128.38,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS41957,Directive,Directive
+22-04-26,13.107.213.0,none,verified_service,0,0,0,Content Delivery Network,No_Reports,0,Never_Reported,Canada,AS8075,Microsoft,Microsoft
+22-04-26,104.255.58.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Spain,AS16509,Amazon,Amazon
+12-05-25,85.106.113.168,exploit_delivery,general_threat,2,1,0,Fixed Line ISP,No_Reports,0,2025-10-05T18:44:42+00:00,Türkiye,AS9121,Turk Telekomunikasyon A.S,TurkTelecom
+21-07-25,103.186.30.186,exploit_delivery,cloud_services,4,1,25,Data Center/Web Hosting/Transit,"14,15,18,19,21,22",12,2026-02-25T20:13:50+00:00,Indonesia,AS141892,CV Andhika Pratama Sanggoro,SMK Adi Sanggoro
+22-04-26,83.248.203.136,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Sweden,AS1257,COMHEM,Tele2
+22-04-26,104.255.59.102,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Indonesia,AS16509,Amazon,Amazon
+22-04-26,1.0.153.181,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,83.167.101.221,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS15582,AKADO-Stolitsa,AKADO-Stolitsa
+22-04-26,5.42.58.241,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS39493,CJSC Kolomna-Sviaz TV,SVKTV-GARANTIA
+22-04-26,13.106.38.142,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,195.135.68.145,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,France,AS8399,Sewan SAS,SEWAN
+22-04-26,13.105.114.208,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,108.166.240.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+12-05-25,101.99.91.107,exploit_delivery,general_threat,2,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-10-04T09:12:13+00:00,Malaysia,AS45839,Shinjiru Sdn Bhd,Shinjiru Sdn Bhd
+22-04-26,1.0.136.190,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,40.96.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Australia,AS8075,Microsoft,Microsoft
+22-04-26,108.166.244.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+29-08-25,212.236.17.237,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Austria,AS8245,Video-Broadcast,Video-Broadcast
+22-04-26,104.255.56.3,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,104.47.217.71,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,62.74.243.154,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Greece,AS3329,Vodafone,Vodafone
+18-02-26,31.57.219.216,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-07-12T05:00:01+00:00,France,AS399486,12651980 Canada,Virtuo France
+22-04-26,168.181.247.195,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2025-08-28T18:04:38+00:00,Brazil,AS265359,gotcha net provider,gotcha net provider
+22-04-26,27.4.59.188,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,India,AS17488,Hathway IP over Access,Hathway and Datacom
+22-04-26,45.179.174.123,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2023-03-31T11:37:01+00:00,Brazil,AS269093,AgroRedes,Infocomp
+22-04-26,74.137.64.220,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS10796,Charter,Spectrum
+22-04-26,82.80.207.110,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Israel,AS8551,Bezeq,Bezeq
+22-04-26,31.182.36.26,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Poland,AS16342,Toya sp. z o.o,Toya:net
+22-04-26,103.104.17.7,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Philippines,AS137074,Responsible Sustainability Effort,Unknown
+29-10-25,136.0.9.8,ransomware,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-06-19T21:30:28+00:00,United Kingdom,AS149440,Ace II,Evoxt
+01-02-26,146.0.41.234,espionage,mobile_devices,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS24961,WIIT AG,Myloc De Steffenruehl
+22-04-26,200.125.37.90,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-07-07T17:39:34+00:00,Uruguay,AS6057,Administracion Nacional de Telecomunicaciones,Administracion Nacional de Telecomunicaciones
+22-04-26,120.253.245.192,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-01-06T15:21:54+00:00,China,AS24400,China Mobile,Amazon
+22-04-26,107.20.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,20.95.128.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Japan,AS8075,Microsoft,Microsoft
+22-04-26,1.0.148.142,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-02-12T12:36:49+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,144.2.93.73,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Switzerland,AS3303,Swisscom (Schweiz) AG,WINGO-CUST1A2
+22-04-26,13.107.52.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Taiwan,AS8068,Microsoft,Microsoft
+22-04-26,180.16.128.17,none,verified_service,0,0,0,Mobile ISP,No_Reports,0,Never_Reported,Japan,AS4713,NTT,NTT
+22-04-26,1.0.135.153,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,54.39.255.35,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS16276,OVH,OVH
+29-08-25,45.61.151.12,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-12-07T15:56:24+00:00,United States,AS14956,RouterHosting,FranTech
+22-04-26,174.51.81.36,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS7922,Comcast,Comcast
+22-04-26,1.0.150.124,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-06-05T03:19:09+00:00,Thailand,AS23969,TOT,TOT
+29-08-25,45.61.133.157,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14956,RouterHosting,FranTech
+22-04-26,111.221.96.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS8075,Microsoft,Microsoft
+22-04-26,13.107.253.0,none,verified_service,0,0,0,Content Delivery Network,No_Reports,0,Never_Reported,Canada,AS8075,Microsoft,Microsoft
+22-04-26,104.47.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2023-05-12T11:35:47+00:00,Canada,AS8075,Microsoft,Microsoft
+22-04-26,52.96.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+29-08-25,45.61.159.25,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-01-13T09:02:14+00:00,United States,AS14956,RouterHosting,FranTech
+22-04-26,176.115.196.210,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2023-09-24T05:02:06+00:00,Russia,AS50241,UnitTelecom,UnitTelecom
+22-04-26,89.109.123.91,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Portugal,AS15457,Cabo Tv Madeirense S.A,Cabo Tv Madeirense S.A
+22-04-26,212.28.238.145,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Lebanon,AS24634,Transmog L,dsl1M
+22-04-26,1.0.0.1,none,verified_service,0,0,0,Content Delivery Network,"4,6,10,14,15,18,21,22",7,2026-04-16T04:00:40+00:00,Australia,AS13335,Cloudflare,Cloudflare
+29-08-25,59.148.233.250,espionage,general_threat,1,1,0,Fixed Line ISP,No_Reports,0,Never_Reported,Hong Kong,AS9269,Hong Kong,Hong Kong
+22-04-26,40.104.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,194.2.0.50,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,France,AS3215,Orange,Ceva Freight Management France
+22-04-26,200.46.99.178,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2025-07-28T21:44:13+00:00,Panama,AS18809,Onda,Onda
+22-04-26,13.104.208.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+01-02-26,146.0.41.204,espionage,mobile_devices,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS24961,WIIT AG,Myloc De Steffenruehl
+22-04-26,13.124.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Korea,AS16509,Amazon,Amazon
+12-05-25,158.247.224.100,exploit_delivery,general_threat,2,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Korea,AS20473,The Constant,The Constant
+22-04-26,1.174.123.20,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Taiwan,AS3462,Chunghwa,Chunghwa
+22-04-26,186.1.35.243,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Nicaragua,AS18840,Equipos Y Sistemas S.A,Equipos Y Sistemas S.A
+22-04-26,102.37.26.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+22-04-26,49.1.33.50,none,verified_service,0,0,0,Commercial,No_Reports,0,Never_Reported,South Korea,AS10036,DLIVE,DLIVE Jungrang TV
+22-04-26,1.0.153.148,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2023-07-26T07:07:14+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,13.184.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,Unknown_ASN,Amazon,Amazon
+22-04-26,91.190.238.106,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2023-05-14T15:27:15+00:00,Russia,AS196695,NetOne Rus,Netone
+22-04-26,1.0.156.34,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,95.163.77.15,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Russia,AS12695,Digital,DINET
+22-04-26,120.232.236.128,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-01-06T15:21:01+00:00,China,AS56040,China Mobile,Amazon
+22-04-26,1.1.168.68,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,77.232.150.227,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Russia,AS50126,Zhukovsky,OOO Teleservis/Zhukovsky
+22-04-26,104.255.56.16,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,104.47.217.151,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,172.64.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,14,1,2026-04-13T22:00:16+00:00,Canada,Unknown_ASN,Cloudflare,Cloudflare
+22-04-26,1.0.0.2,none,verified_service,0,0,0,Content Delivery Network,No_Reports,0,2026-01-01T20:30:04+00:00,Australia,AS13335,Cloudflare,Cloudflare
+22-04-26,20.190.128.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,83.169.217.22,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS29648,MegaFon,MegaFon
+29-08-25,85.195.89.94,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS29066,velia,Eldernode
+22-04-26,1.0.152.123,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2026-01-07T04:48:17+00:00,Thailand,AS23969,TOT,TOT
+10-11-25,167.17.188.244,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Poland,AS26383,Baxet,Baxet
+22-04-26,74.205.52.167,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS33070,Rackspace,Bill Graham Archives
+29-08-25,193.43.104.185,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS16276,OVH,OVH
+22-04-26,104.255.59.124,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,India,AS16509,Amazon,Amazon
+22-04-26,185.50.212.224,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Slovakia,AS15962,Orange,Orange
+22-04-26,31.133.124.66,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS61152,Freedom House,FreeDomHouse
+22-04-26,5.181.194.15,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Italy,AS60989,Sinergia Telecomunication S.R.L,Sinergia
+22-04-26,1.0.153.36,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-05-17T00:22:58+00:00,Thailand,AS23969,TOT,TOT
+29-08-25,63.141.234.109,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS33387,Nocix,Dedispec
+22-04-26,103.22.200.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS13335,Cloudflare,Cloudflare
+22-04-26,5.252.170.145,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Latvia,AS24921,Latvijas Mobilais Telefons,LMT
+22-04-26,66.249.72.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS15169,Google,Google
+22-04-26,104.255.57.164,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,103.36.96.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,China,AS59067,Microsoft,Microsoft
+22-04-26,1.0.150.51,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+29-08-25,74.48.84.119,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-04-25T08:30:14+00:00,United States,AS35916,Multacom,TELUS
+22-04-26,103.19.122.138,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Bangladesh,AS140711,Deshnet,Deshnetbroadband
+12-05-25,13.232.191.219,exploit_delivery,general_threat,2,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,India,AS16509,Amazon,Amazon
+22-04-26,104.210.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,13.107.245.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8075,Microsoft,Microsoft
+22-04-26,1.0.141.225,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-08-25,164.215.103.55,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Netherlands,AS213373,IP Connect,IP Connect
+22-04-26,1.0.154.133,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-06-25T08:54:17+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,196.202.207.133,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-02-03T06:17:10+00:00,Kenya,AS12455,ADSL,Unknown
+22-04-26,104.210.176.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,185.47.185.157,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Hungary,AS47169,Macronet Kereskedelmi es Szolgaltato Kft,Macronet Kereskedelmi es Szolgaltato Kft
+22-04-26,94.139.240.28,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Russia,AS48096,Unknown,IT-GRAD 1Cloud
+22-04-26,62.170.177.193,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Italy,AS198471,LINKEM,Unknown
+22-04-26,1.0.153.3,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-10-05T16:47:43+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,128.85.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,1.0.141.173,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,104.255.59.206,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Thailand,AS16509,Amazon,Amazon
+29-08-25,167.88.175.231,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS14956,RouterHosting,FranTech
+18-02-26,45.32.123.183,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS20473,The Constant,The Constant
+22-04-26,24.51.32.124,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS13807,Great Plains,Great Plains
+22-04-26,1.0.153.42,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+29-08-25,45.146.120.210,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS199967,Think Huge,TH NY
+22-04-26,143.110.148.155,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14061,DigitalOcean,DigitalOcean
+29-08-25,167.88.172.70,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS14956,RouterHosting,FranTech
+22-04-26,13.134.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United Kingdom,AS16509,Amazon,Amazon
+22-04-26,158.58.132.58,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS47586,Dmitriy V. Kozmenko,Business-Svyaz
+22-04-26,1.169.49.42,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Taiwan,AS3462,Chunghwa,Chunghwa
+10-11-25,185.142.33.131,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS216024,Aleksei Fedorov PR Krusevac,Aleksei Fedorov PR Krusevac
+22-04-26,104.210.128.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,166.130.27.133,none,verified_service,0,0,0,Mobile ISP,No_Reports,0,Never_Reported,United States,AS20057,AT&T,AT&T
+22-04-26,13.107.12.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8068,Microsoft,Microsoft
+22-04-26,104.47.216.64,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Netherlands,AS8075,Microsoft,Microsoft
+22-04-26,104.255.58.84,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS16509,Amazon,Amazon
+22-04-26,13.107.16.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8068,Microsoft,Microsoft
+22-04-26,1.0.151.65,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2025-06-20T08:59:50+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,94.70.171.67,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Greece,AS6799,Ote (Hellenic Organisation,Ote (Hellenic Organisation
+29-08-25,167.88.173.58,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS14956,RouterHosting,FranTech
+18-02-26,155.138.225.148,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS20473,The Constant,The Constant
+22-04-26,1.0.138.197,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2023-05-24T08:00:19+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,52.93.71.40,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Ireland,AS16509,Amazon,Amazon
+22-04-26,1.2.245.32,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,165.158.1.2,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS46887,Crown Castle Fiber,Pan American Health Organization
+22-04-26,1.0.150.32,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,104.47.128.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Netherlands,AS8075,Microsoft,Microsoft
+22-04-26,34.88.194.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Finland,AS396982,Google,Google
+22-04-26,1.0.138.245,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,184.187.201.251,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS22773,Cox,Cox
+22-04-26,84.47.137.74,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS24739,Severen,SEVEREN
+22-04-26,108.162.192.0,none,verified_service,0,0,0,Content Delivery Network,14,1,2026-04-14T12:00:16+00:00,Canada,AS13335,Cloudflare,Cloudflare
+29-08-25,45.61.133.79,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14956,RouterHosting,FranTech
+22-04-26,13.105.74.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,104.47.240.167,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,88.205.234.250,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS12389,A Yamalo-Nenetsk branch of Uralsvyazinform Autonomus,Dynamic distribution IPs for
+29-08-25,45.125.64.195,espionage,general_threat,1,1,0,Fixed Line ISP,21,1,2026-03-03T02:17:58+00:00,Hong Kong,AS133398,Tele Asia,RMP Protection
+22-04-26,172.105.186.231,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-08-14T05:03:44+00:00,Australia,AS63949,Akamai,Linode
+22-04-26,13.105.36.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,1.0.146.237,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2021-02-11T05:54:12+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,66.249.70.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS15169,Google,Google
+22-04-26,157.56.24.192,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,24.16.223.122,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS7922,Comcast,Comcast
+29-10-25,166.88.4.2,ransomware,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United Kingdom,AS149440,Ace II,Evoxt
+06-10-25,200.107.207.26,exploit_delivery,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-11-29T03:48:59+00:00,El Salvador,AS273045,Datahome S.A,Redynet
+29-08-25,172.86.106.39,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14956,RouterHosting,FranTech
+22-04-26,40.92.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2023-05-12T11:37:49+00:00,United States,AS8075,Microsoft,Microsoft
+10-11-25,193.233.23.81,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Finland,AS216024,Aleksei Fedorov PR Krusevac,Aleksei Fedorov PR Krusevac
+29-08-25,193.239.86.132,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-07-04T07:21:22+00:00,Hong Kong,AS9009,M247,M247
+22-04-26,174.51.83.11,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS7922,Comcast,Comcast
+22-04-26,80.254.23.110,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-06-24T15:03:51+00:00,Russia,AS39101,Piter,Pitel II NET P2P
+22-04-26,181.143.31.202,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Colombia,AS13489,EPM Telecomunicaciones S.A,EPM Telecomunicaciones S.A
+22-04-26,60.254.1.38,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,India,AS17488,Hathway IP over Access,Hathway and Datacom
+22-04-26,103.146.54.91,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Bangladesh,AS139850,Md. Sohel,Unknown
+22-04-26,13.107.234.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8075,Microsoft,Microsoft
+22-04-26,93.84.100.31,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Belarus,AS6697,Republican Unitary Telecommunication Beltelecom,OAO Brestskoe Morojenoe Brest
+22-04-26,82.192.169.38,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Denmark,AS31027,GlobalConnect A/S,Globalconnect P2P
+22-04-26,95.160.237.97,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-01-16T21:17:33+00:00,Poland,AS29314,Vectra S.A,Powiat Swidwinski Starostwo Powiatowe w Swidwinie
+22-04-26,13.105.221.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8075,Microsoft,Microsoft
+22-04-26,193.232.162.144,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS34858,Telezon-Seti,Telezon-Seti
+22-04-26,72.167.45.177,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS398101,GoDaddy,GoDaddy
+22-04-26,188.114.96.0,none,verified_service,0,0,0,Content Delivery Network,"7,10,11,14,18,19,20,21",7,2026-03-26T02:25:23+00:00,Canada,AS13335,Cloudflare,Cloudflare
+22-04-26,1.0.153.133,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-11-23T12:18:22+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,103.164.105.37,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Indonesia,AS17995,SOLUSINET,Unknown
+22-04-26,104.255.56.55,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,13.107.197.16,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8075,Microsoft,Microsoft
+22-04-26,82.123.78.255,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,France,AS3215,Orange,Ceva Freight Management France
+22-04-26,13.107.50.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8068,Microsoft,Microsoft
+19-02-26,64.111.93.170,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Netherlands,AS399629,BL,BL
+22-04-26,81.169.245.98,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-10-02T02:31:03+00:00,Germany,AS6724,Strato AG,Strato AG
+22-04-26,103.120.113.53,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS135419,Cableconnect,Franchise
+22-04-26,91.221.102.72,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Russia,AS205998,Skytel,Skytel
+22-04-26,128.24.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,103.148.178.35,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Bangladesh,AS140216,Bandhon,Md Nazmul Alam Khan
+22-04-26,103.8.172.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Australia,AS16509,Amazon,Amazon
+22-04-26,88.221.163.127,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Poland,AS21342,Akamai,Unknown
+29-08-25,38.71.99.145,espionage,general_threat,1,1,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS46449,Spectrum,CHARTER OPERATING
+20-02-26,198.23.177.219,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,"15,7",1,2026-02-05T15:02:23+00:00,United States,AS36352,HostPapa,ColoCrossing
+22-04-26,92.42.127.220,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United Kingdom,AS21267,Wavenet,Thebookpeople
+29-08-25,193.239.86.146,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Hong Kong,AS9009,M247,M247
+22-04-26,9.9.9.10,none,verified_service,0,0,1,Data Center/Web Hosting/Transit,14,1,2026-03-29T01:18:29+00:00,United States,AS19281,Quad9,Quad9
+22-04-26,13.104.192.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,162.158.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,14,1,2026-04-13T22:00:16+00:00,Australia,AS13335,Cloudflare,Cloudflare
+29-08-25,146.70.79.81,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Hong Kong,AS9009,M247,M247
+22-04-26,82.65.2.91,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,France,AS12322,Proxad / Free SAS,ProXad / Free
+22-04-26,80.80.44.129,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Bosnia And Herzegovina,AS42560,Kablovska telvezija HS d.o.o Sarajevo,Unknown
+22-04-26,120.232.236.0,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,China,AS56040,China Mobile,Amazon
+22-04-26,13.244.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS16509,Amazon,Amazon
+22-04-26,104.24.0.0,none,verified_service,0,0,0,Content Delivery Network,No_Reports,0,Never_Reported,Canada,AS13335,Cloudflare,Cloudflare
+22-04-26,104.47.200.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,102.213.92.6,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Kenya,AS329183,Flink,FLINK
+22-04-26,66.249.78.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS15169,Google,Google
+01-02-26,146.0.41.233,espionage,mobile_devices,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS24961,WIIT AG,Myloc De Steffenruehl
+22-04-26,52.112.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+29-08-25,45.59.118.136,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United Arab Emirates,AS14956,RouterHosting,FranTech
+22-04-26,89.190.36.18,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Czech Republic,AS210139,DPT s.r.o,Datonet
+22-04-26,108.166.248.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,1.0.148.100,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,102.133.112.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+22-04-26,1.178.100.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,110.238.2.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,102.133.248.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+22-04-26,1.4.168.191,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,72.14.187.108,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS63949,Akamai,Linode
+22-04-26,41.57.104.190,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Kenya,AS36866,Jamii,FAIBA
+29-08-25,104.194.129.137,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United Kingdom,AS198983,FranTech,RouterHosting
+29-08-25,45.61.132.125,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-02-13T13:53:09+00:00,United States,AS14956,RouterHosting,FranTech
+22-04-26,102.37.16.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+29-08-25,104.194.150.26,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS198983,FranTech,RouterHosting
+29-08-25,45.61.133.77,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14956,RouterHosting,FranTech
+22-04-26,104.47.240.215,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,1.0.152.120,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2021-06-22T15:09:20+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,104.46.224.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Japan,AS8075,Microsoft,Microsoft
+22-04-26,85.17.17.65,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Netherlands,AS60781,LeaseWeb Netherlands B.V,LeaseWeb Netherlands B.V
+29-08-25,23.227.196.22,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-01-03T19:14:20+00:00,United States,AS29802,HIVELOCITY,Hivelocity Ventures
+22-04-26,1.178.174.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Sweden,AS16509,Amazon,Amazon
+22-04-26,104.46.192.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,85.30.235.162,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS42610,National,Unknown
+22-04-26,13.107.231.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8075,Microsoft,Microsoft
+22-04-26,1.0.148.35,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-08-18T03:48:23+00:00,Thailand,AS23969,TOT,TOT
+29-08-25,45.61.128.29,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-02-10T20:16:38+00:00,United States,AS14956,RouterHosting,FranTech
+22-04-26,5.58.4.85,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2025-06-18T15:22:56+00:00,Ukraine,AS16223,Columbus,Lanet
+22-04-26,13.106.57.181,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+06-10-25,185.181.60.11,exploit_delivery,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-11-29T03:48:39+00:00,Norway,AS56655,TERRAHOST,Unknown
+22-04-26,100.48.0.0,none,verified_service,0,0,1,Data Center/Web Hosting/Transit,14,1,2026-04-11T17:00:28+00:00,United States,AS14618,Amazon,Amazon
+22-04-26,1.0.136.32,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,5.50.203.180,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,France,AS5410,Bouygues,Bouygues
+22-04-26,187.103.232.67,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Brazil,AS28283,Adylnet,Adylnet
+22-04-26,1.0.138.176,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+18-02-26,212.111.89.17,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Netherlands,AS216071,Servers Fzco,Servers Fzco
+22-04-26,13.107.136.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,131.253.33.215,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8068,Microsoft,Microsoft
+22-04-26,81.169.245.149,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-10-28T05:18:25+00:00,Germany,AS6724,Strato AG,Strato AG
+22-04-26,1.0.156.182,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,162.159.50.27,none,verified_service,0,0,0,Content Delivery Network,No_Reports,0,Never_Reported,Canada,AS13335,Cloudflare,Cloudflare
+22-04-26,66.249.79.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS15169,Google,Google
+22-04-26,32.236.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Australia,AS16509,Amazon,Amazon
+22-04-26,80.107.225.144,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Greece,AS6799,Ote (Hellenic Organisation,Ote (Hellenic Organisation
+22-04-26,111.221.28.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,China,AS59067,Microsoft,Microsoft
+22-04-26,1.0.136.199,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2025-11-10T17:10:05+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,1.0.156.228,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2023-02-22T06:03:43+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,1.0.155.230,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+18-02-26,194.59.31.157,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-04-09T04:07:26+00:00,France,AS399486,12651980 Canada,Virtuo France
+22-04-26,5.138.140.65,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS12389,A Yamalo-Nenetsk branch of Uralsvyazinform Autonomus,Dynamic distribution IPs for
+22-04-26,35.229.24.185,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-07-18T21:51:21+00:00,United States,AS396982,Google,Google
+22-04-26,1.178.64.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Japan,AS16509,Amazon,Amazon
+22-04-26,66.249.76.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS15169,Google,Google
+22-04-26,13.104.248.32,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,13.107.128.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8068,Microsoft,Microsoft
+22-04-26,1.0.136.23,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-08-01T03:36:45+00:00,Thailand,AS23969,TOT,TOT
+12-05-25,138.68.61.82,exploit_delivery,general_threat,2,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2022-10-27T11:14:13+00:00,United States,AS14061,DigitalOcean,DigitalOcean
+29-10-25,23.27.202.27,ransomware,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS149440,Ace II,Evoxt
+29-08-25,104.194.154.222,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS14956,RouterHosting,FranTech
+22-04-26,94.205.212.140,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United Arab Emirates,AS15802,Emirates Integrated,Emirates Integrated
+22-04-26,56.1.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Brazil,AS16509,Amazon,Amazon
+22-04-26,13.105.66.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS8075,Microsoft,Microsoft
+22-04-26,115.98.129.153,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,India,AS17488,Hathway IP over Access,Hathway and Datacom
+22-04-26,13.107.37.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8075,Microsoft,Microsoft
+22-04-26,84.79.227.152,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2020-12-29T20:51:00+00:00,Spain,AS12479,YIF,Unknown
+22-04-26,37.29.36.112,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2023-10-04T09:07:44+00:00,Russia,AS25159,MegaFon,Unknown
+22-04-26,45.225.123.175,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Brazil,AS266935,Centrosulnet Informatica Eireli,TOP NET SERVIÇOS
+22-04-26,190.210.25.157,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Argentina,AS16814,NSS S.A,NSS S.A
+22-04-26,102.133.96.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+29-08-25,63.245.1.13,espionage,general_threat,1,1,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS23520,Columbus,Columbus
+22-04-26,104.255.56.12,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,1.0.136.150,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-02-24T06:29:03+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,13.106.54.19,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,1.0.153.60,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2021-12-24T18:38:07+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,104.44.128.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,78.29.12.72,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS8369,Intersvyaz-2,Intersvyaz-2
+22-04-26,1.0.141.163,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,34.101.50.144,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Indonesia,AS396982,Google,Google
+22-04-26,102.37.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+22-04-26,125.212.237.1,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Vietnam,AS38731,Vietel - CHT Compamy,Viettel
+22-04-26,34.176.130.16,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-12-22T18:49:21+00:00,Chile,AS396982,Google,Google
+22-04-26,1.0.145.170,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,73.82.172.106,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS7922,Comcast,Comcast
+22-04-26,1.0.146.163,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,1.178.16.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Bahrain,Unknown_ASN,Amazon,Amazon
+22-04-26,35.247.243.240,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,"14,15,19,20,21,22",4,2026-03-04T13:02:02+00:00,Brazil,AS396982,Google,Google
+22-04-26,174.50.214.17,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS7922,Comcast,Comcast
+29-08-25,45.61.149.200,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-02-27T08:27:49+00:00,United States,AS14956,RouterHosting,FranTech
+18-02-26,91.92.243.47,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-10-25T20:31:49+00:00,United States,AS202412,Omegatech,Omegatech
+19-02-26,185.141.216.76,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS26832,Rica Web,Moula World
+22-04-26,81.176.226.66,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Russia,AS8342,RTCOMM,In-Solve/1Gb.ru
+29-08-25,45.61.133.61,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14956,RouterHosting,FranTech
+29-08-25,14.143.247.202,espionage,general_threat,1,1,0,Fixed Line ISP,No_Reports,0,Never_Reported,India,AS4755,Tata,Tata
+22-04-26,13.107.9.192,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8068,Microsoft,Microsoft
+22-04-26,62.12.116.181,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Kenya,AS37684,Angani - KE,Unknown
+29-08-25,89.117.2.39,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-11-19T15:45:26+00:00,France,AS142036,Hosteons Pte,Hosteons Pte
+29-08-25,172.86.80.15,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS14956,RouterHosting,FranTech
+20-02-26,202.95.17.184,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS152194,CTG Server,Rackip Consultancy Pte
+22-04-26,205.170.181.146,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS209,CenturyLink,CenturyLink
+22-04-26,104.255.59.132,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Australia,AS16509,Amazon,Amazon
+22-04-26,1.178.4.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14618,Amazon,Amazon
+19-02-26,212.11.64.115,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Switzerland,Unknown_ASN,Global- IT,Global- IT
+18-02-26,45.63.98.51,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United Kingdom,AS20473,The Constant,The Constant
+22-04-26,2.24.168.20,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Lithuania,Unknown_ASN,EE,Unknown
+22-04-26,1.0.153.238,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-09-04T16:19:32+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,67.182.56.137,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS7922,Comcast,Comcast
+22-04-26,1.0.150.90,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-06-11T05:49:58+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,35.56.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Israel,Unknown_ASN,Amazon,Amazon
+22-04-26,1.0.136.114,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-06-13T07:25:42+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,1.0.153.66,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2023-01-10T08:09:30+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,104.255.56.60,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,13.107.238.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8075,Microsoft,Microsoft
+22-04-26,1.0.145.168,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,1.0.138.50,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,102.133.240.128,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+22-04-26,104.255.59.104,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Indonesia,AS16509,Amazon,Amazon
+22-04-26,141.101.64.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,"18,14,22",2,2026-04-14T12:00:16+00:00,Netherlands,AS202623,Cloudflare,Cloudflare
+22-04-26,54.237.237.3,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14618,Amazon,Amazon
+22-04-26,1.0.136.214,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-10-09T23:22:24+00:00,Thailand,AS23969,TOT,TOT
+18-02-26,159.26.100.129,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2026-02-17T16:16:08+00:00,United States,AS208172,Proton AG,PV-SL-HOSTED-Dallas
+22-04-26,78.186.163.250,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Turkey,AS9121,Turk Telekomunikasyon A.S,TurkTelecom
+22-04-26,104.46.24.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Hong Kong,AS8075,Microsoft,Microsoft
+22-04-26,165.211.21.145,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Cameroon,AS15964,Cameroon,CAMTEL
+22-04-26,108.156.0.0,none,verified_service,0,0,0,Content Delivery Network,No_Reports,0,Never_Reported,Italy,AS16509,Amazon,Amazon
+22-04-26,93.171.226.55,none,verified_service,0,0,0,Commercial,No_Reports,0,Never_Reported,Uzbekistan,AS204336,Any Mobile,Any Mobile
+22-04-26,114.36.126.79,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Taiwan,AS3462,Chunghwa,Chunghwa
+22-04-26,104.212.68.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,146.120.66.105,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS42518,Unet,Unet
+22-04-26,128.203.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,192.178.6.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS15169,Google,Google
+22-04-26,86.127.67.242,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Romania,AS8708,RCS & RDS,RCS & RDS Business
+22-04-26,13.144.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS16509,Amazon,Amazon
+22-04-26,13.107.15.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8068,Microsoft,Microsoft
+22-04-26,104.255.59.82,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Japan,AS16509,Amazon,Amazon
+22-04-26,116.129.226.0,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,China,AS10206,China Unicom,Amazon
+22-04-26,102.37.64.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+22-04-26,13.152.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Bahrain,AS16509,Amazon,Amazon
+19-02-26,85.137.253.64,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,"20,15",1,2026-02-02T18:43:47+00:00,Germany,AS215428,Mykyta Skorobohatko,Mykyta Skorobohatko
+22-04-26,86.63.181.75,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Latvia,AS43513,Nano IT,ISP-NETVISION
+22-04-26,1.0.154.85,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2023-03-13T04:24:52+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,104.210.64.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Australia,AS8075,Microsoft,Microsoft
+22-04-26,13.105.114.192,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,100.24.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2021-06-29T02:36:19+00:00,United States,AS14618,Amazon,Amazon
+22-04-26,74.67.182.48,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS11351,Charter,Spectrum
+22-04-26,1.0.152.211,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,81.211.78.154,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS3216,Vimpelcom,EDN Sovintel
+22-04-26,87.66.1.237,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2023-05-29T07:29:51+00:00,Belgium,AS5432,Proximus,Belgacom
+22-04-26,104.153.118.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,104.255.58.91,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS16509,Amazon,Amazon
+22-04-26,210.116.119.185,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Korea,AS17881,Inet,Inet
+22-04-26,13.224.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,14,1,2026-03-28T12:00:26+00:00,United States,Unknown_ASN,Amazon,Amazon
+22-04-26,104.46.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+19-02-26,170.187.144.43,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS63949,Akamai,Linode
+22-04-26,13.192.0.0,none,verified_service,0,0,1,Data Center/Web Hosting/Transit,14,1,2026-04-11T17:00:27+00:00,Japan,AS16509,Amazon,Amazon
+18-02-26,66.42.111.219,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS20473,The Constant,The Constant
+29-08-25,5.181.132.95,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-07-10T14:05:33+00:00,Malaysia,AS55720,Gigabit Sdn Bhd,Gigabit Sdn Bhd
+22-04-26,134.209.115.77,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2022-10-10T17:39:19+00:00,United States,AS14061,DigitalOcean,DigitalOcean
+22-04-26,200.3.244.170,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Colombia,AS262191,Columbus,Liberty
+22-04-26,104.255.56.20,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,113.212.111.213,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2025-12-04T08:32:36+00:00,Bangladesh,AS136224,City,City
+29-08-25,104.194.147.15,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS198983,FranTech,RouterHosting
+22-04-26,104.45.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Netherlands,AS8075,Microsoft,Microsoft
+01-02-26,146.0.41.208,espionage,mobile_devices,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS24961,WIIT AG,Myloc De Steffenruehl
+29-08-25,45.125.67.226,espionage,general_threat,1,1,0,Fixed Line ISP,No_Reports,0,Never_Reported,Hong Kong,AS133398,Tele Asia,RMP Protection
+16-10-25,61.239.68.73,exploit_delivery,general_threat,1,1,0,Fixed Line ISP,No_Reports,0,2023-12-04T08:16:20+00:00,Hong Kong,AS9269,Hong Kong,Hong Kong
+22-04-26,103.31.4.0,none,verified_service,0,0,0,Content Delivery Network,No_Reports,0,Never_Reported,United States,AS13335,Cloudflare,Cloudflare
+29-08-25,45.125.67.144,espionage,general_threat,1,1,0,Fixed Line ISP,No_Reports,0,Never_Reported,Hong Kong,AS133398,Tele Asia,RMP Protection
+22-04-26,1.0.149.135,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2021-10-20T15:39:14+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,104.255.59.101,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Indonesia,AS16509,Amazon,Amazon
+22-04-26,104.47.217.87,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2022-10-21T19:19:14+00:00,United States,AS8075,Microsoft,Microsoft
+22-04-26,13.146.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Australia,AS16509,Amazon,Amazon
+22-04-26,34.100.182.96,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,India,AS396982,Google,Google
+22-04-26,89.20.45.88,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS62314,Atmospherica,Atmospherica
+22-04-26,213.145.3.44,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS12714,MegaFon,Pskovskaya Gorodskaya Telefonnaya Set
+22-08-25,45.155.54.28,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Switzerland,Unknown_ASN,Alexhost,Alexhost
+22-04-26,13.107.226.0,none,verified_service,0,0,0,Content Delivery Network,No_Reports,0,Never_Reported,Canada,AS8075,Microsoft,Microsoft
+22-04-26,203.205.50.200,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Vietnam,AS45903,CMC Infrastructure,CMC Infrastructure
+05-09-25,208.68.36.90,brute_force,cloud_services,1,1,0,Data Center/Web Hosting/Transit,14,1,2026-02-19T20:04:42+00:00,United States,AS14061,DigitalOcean,DigitalOcean
+22-04-26,1.0.145.243,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2025-06-06T01:36:25+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,104.255.56.15,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,13.105.114.128,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,213.226.120.8,none,verified_service,0,0,0,Commercial,No_Reports,0,Never_Reported,Russia,AS205824,IE Laguntsov Ivan Nikolaevich,IE Laguntsov Ivan Nikolaevich
+29-08-25,172.86.65.145,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14956,RouterHosting,FranTech
+22-04-26,93.45.248.82,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Italy,AS12874,Fastweb,Fastweb Museo Nazionale Del Bargello
+22-04-26,34.118.66.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-09-02T08:30:07+00:00,Poland,AS396982,Google,Google
+22-04-26,1.0.146.172,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,5.163.124.76,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Saudi Arabia,AS25019,STC,Unknown
+20-02-26,193.233.113.137,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Finland,AS205775,Neon Core,Partner
+22-04-26,81.196.44.217,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Romania,AS8708,RCS & RDS,RCS & RDS Business
+22-04-26,222.127.76.219,none,verified_service,0,0,0,Mobile ISP,No_Reports,0,2022-12-07T12:45:01+00:00,Philippines,AS132199,INNOVE,Unknown
+22-04-26,118.193.97.128,none,verified_service,0,0,0,Commercial,No_Reports,0,2024-01-06T15:21:44+00:00,China,AS23724,China Telecom,Amazon
+22-04-26,13.104.144.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Switzerland,AS8075,Microsoft,Microsoft
+22-04-26,102.133.128.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+22-04-26,103.25.156.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,China,AS59067,Microsoft,Microsoft
+22-04-26,13.107.228.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8075,Microsoft,Microsoft
+22-04-26,1.0.159.83,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,1.0.152.82,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,94.190.24.140,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS48524,Interra TG,Interra
+22-04-26,102.37.32.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+22-04-26,116.74.135.8,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,India,AS17488,Hathway IP over Access,Hathway and Datacom
+22-04-26,202.89.235.128,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,China,AS59067,Microsoft,Microsoft
+22-04-26,1.0.145.131,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,92.251.61.92,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Malta,AS12709,Melita,Melita
+22-04-26,202.50.203.49,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Indonesia,AS55696,PT Starcom Solusindo,Unknown
+22-04-26,51.75.25.67,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-07-02T15:50:58+00:00,France,AS16276,OVH,OVH
+29-08-25,23.227.199.77,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,"18,11,15",9,2026-02-07T12:11:44+00:00,United States,AS29802,HIVELOCITY,Hivelocity Ventures
+20-02-26,20.234.151.26,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Netherlands,AS8075,Microsoft,Microsoft
+22-04-26,104.255.56.24,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+29-08-25,104.194.154.150,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS14956,RouterHosting,FranTech
+22-04-26,13.107.140.6,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8068,Microsoft,Microsoft
+22-04-26,89.185.93.88,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-12-07T12:52:26+00:00,Russia,AS39735,Permtelecom,National multiservice
+22-04-26,13.158.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Japan,AS16509,Amazon,Amazon
+22-04-26,190.210.77.118,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Argentina,AS16814,NSS S.A,NSS S.A
+12-05-25,103.207.14.195,exploit_delivery,general_threat,2,1,0,Fixed Line ISP,"14,15",1,2026-03-12T08:20:24+00:00,India,AS134862,Ultimate,Ultimate
+22-04-26,5.252.170.153,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Latvia,AS24921,Latvijas Mobilais Telefons,LMT
+22-04-26,83.248.68.80,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Sweden,AS1257,COMHEM,Tele2
+22-04-26,1.0.151.44,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,34.152.50.64,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-03-07T08:20:58+00:00,Canada,AS396982,Google,Google
+22-04-26,154.73.109.205,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Libya,AS37284,Trans-Sahara IT,Trans-Sahara IT and
+22-04-26,104.255.57.168,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,5.102.36.111,none,verified_service,0,0,0,Unknown,No_Reports,0,Never_Reported,Hong Kong,Unknown_ASN,Beijing Tehuadun Starkley Trading,Beijing Tehuadun Starkley Trading
+18-02-26,62.60.131.44,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Iran,AS208137,Feo Prest,Feo Prest
+22-04-26,104.255.56.11,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+18-02-26,95.179.238.141,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United Kingdom,AS20473,The Constant,The Constant
+22-04-26,102.133.224.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+22-04-26,104.47.220.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,104.211.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+23-07-25,134.199.202.205,espionage,general_threat,4,1,0,Data Center/Web Hosting/Transit,"18,15,22,14",40,2026-02-01T20:11:58+00:00,United States,AS14061,DigitalOcean,DigitalOcean
+22-04-26,70.180.24.173,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS22773,Cox,Cox
+22-04-26,103.148.178.161,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Bangladesh,AS140216,Bandhon,Md Nazmul Alam Khan
+22-04-26,80.245.122.101,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Ukraine,AS6789,Crelcom,Unknown
+22-04-26,108.140.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Brazil,AS8075,Microsoft,Microsoft
+22-04-26,8.242.178.121,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Colombia,AS3549,CTL Colombia,Mack Wifi S A S
+01-02-26,146.0.41.205,espionage,mobile_devices,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS24961,WIIT AG,Myloc De Steffenruehl
+22-04-26,1.0.153.136,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2021-07-08T10:04:04+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,86.123.68.46,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Romania,AS8708,RCS & RDS,RCS & RDS Business
+22-04-26,163.182.82.44,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS6181,Cincinnati Bell Telephone,Altafiber
+01-02-26,146.0.41.231,espionage,mobile_devices,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS24961,WIIT AG,Myloc De Steffenruehl
+22-04-26,13.154.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Sweden,AS16509,Amazon,Amazon
+22-04-26,1.178.8.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,85.175.216.62,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS25490,Southen Telecommunication Maintainer,Rostelecom Macroregional Branch South
+22-04-26,1.0.152.235,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,13.105.52.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Brazil,AS8075,Microsoft,Microsoft
+22-04-26,131.0.72.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-08-05T19:11:22+00:00,Costa Rica,AS13335,Cloudflare,Cloudflare
+22-04-26,34.165.18.176,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2023-10-07T06:24:41+00:00,Israel,AS396982,Google,Google
+29-08-25,172.86.106.15,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14956,RouterHosting,FranTech
+22-04-26,13.107.237.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8075,Microsoft,Microsoft
+22-04-26,100.20.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,1.0.141.107,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,66.249.79.64,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,"14,15,18,19,20,21",6,2026-04-22T02:14:00+00:00,United States,AS15169,Google,Google
+22-04-26,1.0.149.204,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,103.4.8.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2023-11-03T16:50:46+00:00,Japan,AS16509,Amazon,Amazon
+22-04-26,103.136.159.23,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-07-17T15:57:21+00:00,Bangladesh,AS150774,Exabyte,Exabyte
+22-04-26,104.255.59.216,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Taiwan,AS16509,Amazon,Amazon
+22-04-26,104.255.58.63,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS16509,Amazon,Amazon
+22-04-26,62.168.30.102,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2025-07-11T22:54:33+00:00,Czech Republic,AS13036,T-Mobile Czech Republic,T-Mobile Czech Republic a.s
+22-04-26,1.179.60.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United Kingdom,AS16509,Amazon,Amazon
+22-04-26,13.160.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS16509,Amazon,Amazon
+22-04-26,118.193.97.64,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,China,AS23724,China Telecom,Amazon
+21-07-25,104.238.159.149,exploit_delivery,cloud_services,4,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-07-22T21:30:27+00:00,Germany,AS20473,The Constant,The Constant
+22-04-26,104.255.59.106,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Indonesia,AS16509,Amazon,Amazon
+22-04-26,104.255.59.86,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,India,AS16509,Amazon,Amazon
+12-05-25,108.171.195.163,exploit_delivery,general_threat,2,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-12-06T16:55:58+00:00,United States,AS18450,WebNX,WebNX
+22-04-26,34.154.114.144,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Italy,AS396982,Google,Google
+12-05-25,206.188.197.52,exploit_delivery,general_threat,2,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-07-04T07:17:34+00:00,Netherlands,AS399629,BL,BL
+22-04-26,103.13.188.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8987,Amazon,Amazon
+22-04-26,1.0.127.132,none,verified_service,0,0,0,Commercial,No_Reports,0,Never_Reported,Japan,AS18144,Enecom,Energia
+22-04-26,104.255.59.238,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,New Zealand,AS16509,Amazon,Amazon
+22-04-26,103.164.200.86,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,India,AS150008,Pioneer Elabs,Densis
+22-04-26,89.24.72.56,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Czech Republic,AS13036,T-Mobile Czech Republic,T-Mobile Czech Republic a.s
+22-04-26,205.232.55.68,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS7029,Windstream,Windstream
+22-04-26,103.181.123.141,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Bangladesh,AS149508,MD LIAQUET ALI MOLLA,SS
+22-04-26,1.0.153.247,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,1.0.153.111,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2023-02-10T12:22:31+00:00,Thailand,AS23969,TOT,TOT
+18-02-26,187.74.143.132,unknown_attack,general_threat,3,1,0,Fixed Line ISP,No_Reports,0,Never_Reported,Brazil,AS27699,Vivo,TELEF�NICA BRASIL S.A
+22-04-26,41.158.1.162,none,verified_service,0,0,0,Commercial,No_Reports,0,Never_Reported,Gabon,AS16058,Gabon Autonomous,Gtlib Ipmpls01
+22-04-26,34.89.10.80,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-10-23T15:07:15+00:00,United Kingdom,AS396982,Google,Google
+29-08-25,167.88.173.252,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS14956,RouterHosting,FranTech
+22-04-26,13.107.208.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8075,Microsoft,Microsoft
+22-04-26,1.0.0.3,none,verified_service,0,0,0,Content Delivery Network,No_Reports,0,2026-01-01T05:33:02+00:00,Australia,AS13335,Cloudflare,Cloudflare
+22-04-26,162.242.209.52,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2022-01-16T21:17:43+00:00,United States,AS27357,Rackspace,Servers Cell 0001-0003 IAD3
+01-02-26,146.0.41.232,espionage,mobile_devices,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS24961,WIIT AG,Myloc De Steffenruehl
+22-04-26,1.0.133.89,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-09-20T07:25:34+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,1.0.155.187,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-09-27T05:55:24+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,1.178.72.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,Unknown_ASN,Amazon,Amazon
+22-04-26,1.0.138.195,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,82.208.146.164,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2025-06-18T18:54:16+00:00,Romania,AS12302,UPC,Unknown
+22-04-26,1.0.156.164,none,verified_service,0,0,0,Fixed Line ISP,"20,14,15",1,2026-01-25T02:02:14+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,103.74.10.166,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Bangladesh,AS150726,UMAXINTERNET,Unknown
+22-04-26,180.193.177.121,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Philippines,AS9299,Philippine Long Distance Telephone,Philippine Long Distance Telephone
+22-04-26,104.255.58.43,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Spain,AS16509,Amazon,Amazon
+22-04-26,13.104.254.128,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Sweden,AS8075,Microsoft,Microsoft
+22-04-26,104.255.59.81,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Japan,AS16509,Amazon,Amazon
+20-02-26,141.11.213.91,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS212477,RoyaleHosting,Virtual Machine
+22-04-26,1.0.154.156,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2021-02-05T14:15:01+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,34.64.82.64,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-07-07T23:24:58+00:00,South Korea,AS396982,Google,Google
+29-08-25,103.199.17.238,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2021-09-28T06:05:46+00:00,Vietnam,AS63734,365,Greencloud
+22-04-26,104.216.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United Kingdom,Unknown_ASN,Psychz,Amazon
+22-04-26,1.0.154.199,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,85.173.252.14,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-11-24T10:53:27+00:00,Russia,AS42362,SOES Vladikavkaz,The
+22-04-26,104.255.57.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,108.166.224.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,104.255.59.136,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Japan,AS16509,Amazon,Amazon
+22-04-26,104.255.56.52,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,13.106.57.196,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,13.107.6.171,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-05-27T23:00:23+00:00,United States,AS8068,Microsoft,Microsoft
+22-04-26,1.0.136.9,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2021-06-22T08:03:26+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,87.252.99.92,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Bahrain,AS35729,Specific 6,Unknown
+22-04-26,104.46.32.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Netherlands,AS8075,Microsoft,Microsoft
+22-04-26,84.73.32.65,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Switzerland,AS6730,Sunrise,UPC
+12-05-25,45.76.93.60,exploit_delivery,general_threat,2,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS20473,The Constant,The Constant
+22-04-26,2.50.155.152,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United Arab Emirates,AS5384,EMIRATES (ETISALAT,EMIRATES (ETISALAT
+22-04-26,5.140.17.173,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS12389,A Yamalo-Nenetsk branch of Uralsvyazinform Autonomus,Dynamic distribution IPs for
+22-04-26,104.212.67.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,1.53.92.209,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Vietnam,AS18403,FPT,Vietnam Information
+22-04-26,73.168.13.53,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS7922,Comcast,Comcast
+29-08-25,89.117.1.147,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS142036,Hosteons Pte,Hosteons Pte
+12-05-25,192.3.153.18,exploit_delivery,general_threat,2,1,0,Data Center/Web Hosting/Transit,21,1,2026-03-10T02:23:32+00:00,United States,AS36352,HostPapa,ColoCrossing
+22-04-26,204.79.197.215,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8068,Microsoft,Microsoft
+22-04-26,104.255.59.114,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Japan,AS16509,Amazon,Amazon
+22-04-26,194.250.112.182,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,France,AS3215,Orange,Ceva Freight Management France
+22-04-26,104.209.64.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Australia,AS8075,Microsoft,Microsoft
+22-04-26,38.65.136.250,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Mexico,AS28458,IENTC S de RL de CV,IENTC S de RL de CV
+20-02-26,202.95.18.16,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-02-11T00:58:36+00:00,Singapore,AS152194,CTG Server,Rackip Consultancy Pte
+19-02-26,107.152.32.98,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS11878,tzulo,Cloudfanatic
+22-04-26,20.20.32.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Brazil,AS8075,Microsoft,Microsoft
+22-04-26,175.207.198.54,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,South Korea,AS4766,Korea,Chungbukbonbujang
+22-04-26,61.219.84.107,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Taiwan,AS3462,Chunghwa,Chunghwa
+22-04-26,13.105.114.88,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,111.221.80.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS8075,Microsoft,Microsoft
+22-04-26,1.0.147.166,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2021-09-14T02:39:50+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,5.180.79.225,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Netherlands,AS212238,Datacamp,Digital Virtualisation Amsterdam
+29-08-25,43.254.132.118,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Thailand,AS131447,World Datanetwork,POPIDC
+22-04-26,66.249.74.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS15169,Google,Google
+22-04-26,1.0.152.137,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,103.21.244.0,none,verified_service,0,0,0,Unknown,No_Reports,0,2025-06-07T13:34:30+00:00,Canada,AS13335,Cloudflare,Cloudflare
+22-04-26,77.243.112.230,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS44267,IESV,Irkutskenergosvyaz
+10-11-25,91.149.253.134,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Poland,AS26383,Baxet,Baxet
+22-04-26,1.0.150.162,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,66.249.78.128,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS15169,Google,Google
+22-04-26,40.126.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,103.168.181.177,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,India,AS142488,Nextia,Nextia
+16-10-25,118.140.151.242,exploit_delivery,general_threat,1,1,0,Fixed Line ISP,No_Reports,0,2025-03-24T00:19:05+00:00,Hong Kong,AS9304,HGC Global,HGC Global
+22-04-26,103.178.27.49,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Philippines,AS134788,Parasat TV,Palash Silpanchal College
+12-05-25,51.79.66.183,exploit_delivery,general_threat,2,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS16276,OVH,OVH
+22-04-26,104.255.57.100,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Mexico,AS16509,Amazon,Amazon
+22-04-26,122.200.61.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Australia,AS16509,Amazon,Amazon
+22-04-26,115.98.110.168,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,India,AS17488,Hathway IP over Access,Hathway and Datacom
+22-04-26,87.239.108.162,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Russia,AS47764,VK,VK
+22-04-26,172.64.37.146,none,verified_service,0,0,0,Content Delivery Network,No_Reports,0,Never_Reported,Canada,AS13335,Cloudflare,Cloudflare
+22-04-26,104.255.57.41,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,120.52.12.64,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-09-05T19:00:10+00:00,China,AS133119,China Unicom,Amazon
+12-05-25,65.49.235.210,exploit_delivery,general_threat,2,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-04-23T15:45:05+00:00,Canada,AS25820,IT7,IT7
+22-04-26,108.175.48.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,120.52.153.192,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-01-06T14:06:11+00:00,China,AS133119,China Unicom,Amazon
+22-04-26,197.13.5.134,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Tunisia,AS37504,EO DATACENTER,ATI - Agence Tunisienne
+22-04-26,40.135.122.6,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS7029,Windstream,Windstream
+29-08-25,61.19.148.66,espionage,general_threat,1,1,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS9931,Comm. Dept. National,CAT
+22-04-26,1.0.149.139,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2023-12-29T01:03:51+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,13.107.18.10,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8068,Microsoft,Microsoft
+22-04-26,87.249.22.94,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS31430,OOO Suntel,TEL
+29-08-25,45.61.134.134,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-02-13T13:59:41+00:00,United States,AS14956,RouterHosting,FranTech
+22-04-26,66.249.69.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS15169,Google,Google
+22-04-26,1.0.151.40,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-01-05T03:47:22+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,192.178.4.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS15169,Google,Google
+29-08-25,172.86.124.235,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United Kingdom,AS198983,FranTech,RouterHosting
+22-04-26,167.250.136.130,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Brazil,AS28598,DB3 SERVICOS DE S.A,DB3 SERVICOS DE S.A
+29-08-25,103.168.91.231,espionage,general_threat,1,1,0,Fixed Line ISP,No_Reports,0,Never_Reported,Bangladesh,AS151786,Minju,Micro
+22-04-26,72.212.13.147,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS22773,Cox,Cox
+22-04-26,104.255.56.23,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+29-08-25,37.120.239.52,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Netherlands,AS9009,M247,M247
+22-04-26,103.53.48.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Hong Kong,Unknown_ASN,Twitch,GLOBAL
+29-08-25,45.59.120.171,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United Arab Emirates,AS14956,RouterHosting,FranTech
+22-04-26,80.188.180.250,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-12-07T12:45:39+00:00,Czech Republic,AS5610,O2 Czech Republic,CZ.CZNET
+22-04-26,13.112.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Japan,AS16509,Amazon,Amazon
+20-02-26,134.122.152.135,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2022-03-03T01:49:01+00:00,Japan,AS152194,CTG Server,Rackip Consultancy Pte
+29-08-25,63.245.1.34,espionage,general_threat,1,1,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS23520,Columbus,Columbus
+16-10-25,172.104.124.74,exploit_delivery,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Japan,AS63949,Akamai,Linode
+22-04-26,66.249.68.128,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,"14,15,18,20,21",4,2026-04-05T10:14:16+00:00,United States,AS15169,Google,Google
+22-04-26,13.107.18.15,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8068,Microsoft,Microsoft
+22-04-26,40.107.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2023-05-12T11:38:12+00:00,France,AS8075,Microsoft,Microsoft
+22-04-26,82.142.166.167,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-11-24T08:59:04+00:00,Russia,AS3216,Vimpelcom,EDN Sovintel
+22-04-26,1.0.152.110,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,76.77.140.72,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS21737,SpringNet,SpringNet
+22-04-26,38.79.129.92,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS174,Cogent,Cogent - IPENG
+19-02-26,206.123.132.160,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS212238,Datacamp,Digital Virtualisation Amsterdam
+22-04-26,198.41.128.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS395747,Cloudflare,Cloudflare
+21-07-25,96.9.125.147,exploit_delivery,cloud_services,4,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-07-23T14:30:20+00:00,Romania,AS399629,BL,BL
+22-04-26,1.0.151.108,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2025-06-09T01:06:03+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,104.255.56.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,1.0.153.221,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+01-08-25,45.61.149.109,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14956,RouterHosting,FranTech
+22-04-26,108.136.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Indonesia,AS16509,Amazon,Amazon
+22-04-26,27.6.132.51,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,India,AS17488,Hathway IP over Access,Hathway and Datacom
+19-02-26,158.94.210.166,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,18,1,2026-03-23T21:34:49+00:00,Netherlands,AS202412,Omegatech,Omegatech
+22-04-26,1.178.1.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,20.231.128.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Brazil,AS8075,Microsoft,Microsoft
+18-02-26,79.110.49.90,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-07-30T17:06:15+00:00,France,AS399486,12651980 Canada,Virtuo France
+29-08-25,103.7.58.162,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Thailand,AS131447,World Datanetwork,POPIDC
+22-04-26,93.125.16.247,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Belarus,AS42772,Unitary A1,Unitary A1
+22-04-26,1.0.136.69,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2021-09-11T15:52:04+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,104.255.56.51,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+29-08-25,107.189.15.206,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-04-02T16:32:56+00:00,Netherlands,AS14956,RouterHosting,FranTech
+22-04-26,124.107.104.150,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Philippines,AS9299,Philippine Long Distance Telephone,Philippine Long Distance Telephone
+22-04-26,1.0.154.118,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2023-03-30T10:26:46+00:00,Thailand,AS23969,TOT,TOT
+12-05-25,31.192.107.157,exploit_delivery,general_threat,2,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Russia,AS50867,HOSTKEY,Unknown
+10-11-25,91.149.253.99,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Poland,AS26383,Baxet,Baxet
+10-11-25,45.15.156.24,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-07-04T07:07:40+00:00,Russia,Unknown_ASN,Rost,Rost
+22-04-26,1.0.130.68,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,195.89.250.88,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United Kingdom,AS1273,Vodafone,NI Business
+22-04-26,104.255.59.85,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,India,AS16509,Amazon,Amazon
+29-08-25,45.61.133.31,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14956,RouterHosting,FranTech
+22-04-26,50.214.224.57,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS7922,Comcast,Comcast
+22-04-26,116.75.218.3,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,India,AS17488,Hathway IP over Access,Hathway and Datacom
+22-04-26,45.170.236.151,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Brazil,AS268182,Jnet Eireli,Jnet Eireli
+22-04-26,107.176.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,China,Unknown_ASN,Amazon,Amazon
+22-04-26,103.154.157.71,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Bangladesh,AS140993,MD Sabbir Ahamed,Unknown
+22-04-26,66.249.68.192,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS15169,Google,Google
+29-08-25,23.227.202.253,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS29802,HIVELOCITY,Hivelocity Ventures
+22-04-26,108.128.0.0,none,verified_service,0,0,1,Data Center/Web Hosting/Transit,14,1,2026-04-01T23:00:09+00:00,Ireland,AS16509,Amazon,Amazon
+22-04-26,1.0.148.34,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2021-12-11T07:28:29+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,104.255.59.240,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,New Zealand,AS16509,Amazon,Amazon
+22-04-26,120.52.39.128,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,China,AS133119,China Unicom,Amazon
+22-04-26,1.0.145.169,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,1.0.144.62,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-05-04T03:05:36+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,14.47.122.17,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2023-06-02T11:04:07+00:00,South Korea,AS4766,Korea,Chungbukbonbujang
+22-04-26,200.215.228.72,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Peru,AS271868,Gpon C,Unknown
+22-04-26,104.255.59.200,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Malaysia,AS16509,Amazon,Amazon
+22-04-26,34.155.98.32,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,14,1,2026-02-15T07:34:12+00:00,France,AS396982,Google,Google
+21-07-25,107.191.58.76,exploit_delivery,cloud_services,4,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-07-22T21:30:55+00:00,United States,AS20473,The Constant,The Constant
+22-04-26,1.0.149.86,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2021-09-16T16:21:52+00:00,Thailand,AS23969,TOT,TOT
+29-08-25,146.70.79.68,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Hong Kong,AS9009,M247,M247
+22-04-26,119.147.182.128,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-01-06T15:21:06+00:00,China,AS4134,China Telecom,Amazon
+22-04-26,34.96.162.48,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,"19,21",1,2026-01-24T22:21:27+00:00,Hong Kong,AS396982,Google,Google
+22-04-26,13.248.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Japan,AS16509,Amazon,Amazon
+29-08-25,89.41.26.142,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2023-08-31T11:02:14+00:00,United States,AS9009,M247,M247
+22-04-26,111.13.171.128,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,China,AS9808,China Mobile,Amazon
+22-04-26,20.96.117.19,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+29-08-25,144.172.76.213,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14956,RouterHosting,FranTech
+22-04-26,1.0.154.43,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-05-21T03:45:47+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,104.255.61.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Malaysia,AS16509,Amazon,Amazon
+22-04-26,76.21.193.236,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS7922,Comcast,Comcast
+29-08-25,146.70.79.78,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-11-13T20:14:49+00:00,Hong Kong,AS9009,M247,M247
+22-04-26,104.255.56.56,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,78.31.96.3,none,verified_service,0,0,0,Fixed Line ISP,21,1,2026-03-13T11:28:34+00:00,Russia,AS44046,TverLine,TverLine
+22-04-26,88.116.39.118,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Austria,AS8447,A1 Telekom Austria AG - Business Customer,HIGHWAY194
+22-04-26,104.146.128.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Ireland,AS8075,Microsoft,Microsoft
+22-04-26,184.179.52.195,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS1819,DCM,Cox
+22-04-26,1.0.136.43,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,51.142.48.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United Kingdom,AS8075,Microsoft,Microsoft
+22-04-26,120.52.22.96,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,China,AS133119,China Unicom,Amazon
+22-04-26,1.0.148.82,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2021-08-10T12:02:27+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,218.255.18.2,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-08-20T00:30:09+00:00,Hong Kong,AS9381,HKBN HK,HKBN HK
+22-04-26,98.33.223.138,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS7922,Comcast,Comcast
+22-04-26,102.133.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+22-04-26,173.245.48.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-11-27T13:01:06+00:00,Canada,Unknown_ASN,Cloudflare,Cloudflare
+22-04-26,193.19.65.199,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Norway,AS200163,ITERA,Itera Norge
+22-04-26,51.77.129.112,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,France,AS16276,OVH,OVH
+22-04-26,1.0.138.73,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,104.47.208.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,1.163.87.146,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Taiwan,AS3462,Chunghwa,Chunghwa
+22-04-26,45.7.120.180,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2025-05-06T06:04:04+00:00,Brazil,AS266638,JRF Segurança Eletrônica ME,Giga ME
+22-04-26,181.78.104.188,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2023-04-28T15:22:30+00:00,Guatemala,AS52468,UFINET Guatemala S. A,Negocios Y Telefonia Nedetel S.A
+22-04-26,78.92.231.44,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-02-17T15:01:53+00:00,Hungary,AS58098,Szatmarnet,Unknown
+22-04-26,1.0.147.71,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,38.10.246.202,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Brazil,AS174,Cogent,Cogent - IPENG
+22-04-26,13.105.116.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,103.255.140.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,China,AS59067,Microsoft,Microsoft
+22-04-26,104.46.64.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Ireland,AS8075,Microsoft,Microsoft
+22-04-26,197.234.240.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-11-28T03:47:29+00:00,South Africa,AS13335,Cloudflare,Cloudflare
+22-04-26,1.178.88.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,India,AS16509,Amazon,Amazon
+22-04-26,34.118.254.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Belgium,AS396982,Google,Google
+22-04-26,132.245.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8075,Microsoft,Microsoft
+22-04-26,104.209.128.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,8.26.56.157,none,verified_service,0,0,0,Content Delivery Network,No_Reports,0,Never_Reported,United States,AS23393,Flexential,DNS
+22-04-26,202.155.236.99,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Hong Kong,AS9381,HKBN HK,HKBN HK
+22-04-26,13.106.54.3,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+29-08-25,45.146.120.213,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS199967,Think Huge,TH NY
+22-04-26,1.0.151.188,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,13.107.42.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8068,Microsoft,Microsoft
+22-04-26,1.0.150.52,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+19-02-26,193.23.199.88,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,"10,3,21,7",1,2026-02-19T15:19:51+00:00,Germany,AS210457,Kyonix,Kyonix
+22-04-26,104.47.224.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+29-10-25,23.27.20.143,ransomware,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-06-19T21:30:26+00:00,United Kingdom,AS149440,Ace II,Evoxt
+22-04-26,23.227.169.6,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS29802,HIVELOCITY,Hivelocity Ventures
+29-08-25,74.48.78.116,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-04-07T07:45:46+00:00,United States,AS35916,Multacom,TELUS
+22-04-26,1.0.133.95,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-01-10T06:28:09+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,1.0.136.238,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,50.207.72.233,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS7922,Comcast,Comcast
+29-08-25,142.171.227.16,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-05-08T17:12:55+00:00,United States,AS35916,Multacom,TELUS
+22-04-26,194.186.44.69,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS3216,Vimpelcom,EDN Sovintel
+22-04-26,75.2.0.0,none,verified_service,0,0,0,Content Delivery Network,No_Reports,0,2023-06-17T06:35:49+00:00,United States,AS16509,Amazon,Amazon
+22-04-26,102.133.240.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+22-04-26,13.107.18.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8068,Microsoft,Microsoft
+22-04-26,58.142.61.77,none,verified_service,0,0,0,Commercial,No_Reports,0,Never_Reported,South Korea,AS10036,DLIVE,DLIVE Jungrang TV
+22-04-26,1.0.149.215,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2025-05-21T01:09:32+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,66.249.66.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS15169,Google,Google
+22-04-26,120.253.241.160,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-01-06T14:06:29+00:00,China,AS24400,China Mobile,Amazon
+22-04-26,1.0.154.78,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,202.91.86.166,none,verified_service,0,0,0,Commercial,No_Reports,0,Never_Reported,India,AS9830,Swift,SwiftMail
+22-04-26,13.104.248.64,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,119.204.230.60,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,South Korea,AS4766,Korea,Chungbukbonbujang
+22-04-26,13.162.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,India,AS16509,Amazon,Amazon
+22-04-26,104.46.160.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Australia,AS8075,Microsoft,Microsoft
+22-04-26,104.210.32.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+29-08-25,146.70.24.144,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2021-07-06T11:13:20+00:00,United States,AS9009,M247,M247
+22-04-26,79.138.237.166,none,verified_service,0,0,0,Mobile ISP,No_Reports,0,Never_Reported,Sweden,AS44034,Hi3G Access,Hi3G Access
+22-04-26,1.10.143.164,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2023-09-28T21:15:33+00:00,Thailand,AS23969,TOT,TOT
+19-02-26,185.208.159.245,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-09-26T03:04:07+00:00,United States,Unknown_ASN,Global- IT,Global- IT
+22-04-26,1.174.131.99,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Taiwan,AS3462,Chunghwa,Chunghwa
+22-04-26,13.105.60.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,157.245.14.210,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14061,DigitalOcean,DigitalOcean
+22-04-26,103.112.169.88,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS30432,UBTANET,Providence City
+22-04-26,190.93.240.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Costa Rica,AS13335,Cloudflare,Cloudflare
+20-02-26,94.242.52.115,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Russia,AS43317,VEESP,VEESP
+29-08-25,45.61.134.22,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14956,RouterHosting,FranTech
+22-04-26,104.47.218.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Ireland,AS8075,Microsoft,Microsoft
+22-04-26,79.100.19.180,none,verified_service,0,0,0,Mobile ISP,No_Reports,0,2024-05-29T12:56:52+00:00,Bulgaria,AS8866,BTC,Bulgarian
+22-04-26,93.157.135.154,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Czech Republic,AS197879,HelaPC s.r.o,HelaPC s.r.o
+20-02-26,103.163.219.252,unknown_attack,general_threat,3,1,0,Commercial,No_Reports,0,Never_Reported,Vietnam,AS140787,LAM A Architecture Construction,LAMA
+22-04-26,186.209.183.79,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Brazil,AS262982,Nardi & Cano,Nardi & Cano
+22-04-26,1.178.172.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United Kingdom,AS16509,Amazon,Amazon
+22-04-26,104.248.170.233,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United Kingdom,AS14061,DigitalOcean,DigitalOcean
+22-04-26,77.237.15.235,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Poland,AS16342,Toya sp. z o.o,Toya:net
+22-04-26,1.0.138.130,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-01-18T05:04:43+00:00,Thailand,AS23969,TOT,TOT
+29-08-25,45.61.134.223,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14956,RouterHosting,FranTech
+22-04-26,34.175.160.64,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-10-08T04:18:25+00:00,Spain,AS396982,Google,Google
+29-08-25,193.56.255.209,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS9009,M247,M247
+22-04-26,104.208.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,1.0.146.111,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2025-02-13T03:48:35+00:00,Thailand,AS23969,TOT,TOT
+20-02-26,103.83.87.178,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Türkiye,AS44382,Fiba Operation,White Label
+22-04-26,13.107.38.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8075,Microsoft,Microsoft
+23-07-25,131.226.2.6,espionage,general_threat,4,1,27,Data Center/Web Hosting/Transit,"18,22,14",6,2026-04-03T20:34:39+00:00,United States,AS965,Webhosting,Dwarven
+22-04-26,13.105.114.96,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,52.238.78.88,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,118.163.119.20,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Taiwan,AS3462,Chunghwa,Chunghwa
+22-04-26,1.0.141.52,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+29-08-25,104.194.153.181,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS14956,RouterHosting,FranTech
+29-08-25,193.56.255.210,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,2022-06-04T10:40:32+00:00,Singapore,AS9009,M247,M247
+22-04-26,119.147.182.0,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2022-09-05T18:50:19+00:00,China,AS4134,China Telecom,Amazon
+18-02-26,45.32.122.93,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,"14,15,18,20,22",12,2026-02-02T04:12:03+00:00,Singapore,AS20473,The Constant,The Constant
+22-04-26,1.179.2.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+18-02-26,140.82.18.134,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS20473,The Constant,The Constant
+22-04-26,81.255.23.62,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,France,AS3215,Orange,Ceva Freight Management France
+22-04-26,111.13.185.32,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,China,AS9808,China Mobile,Amazon
+08-12-25,178.20.41.242,phishing,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Russia,AS48282,Unknown,Unknown
+22-04-26,180.42.84.217,none,verified_service,0,0,0,Mobile ISP,No_Reports,0,Never_Reported,Japan,AS4713,NTT,NTT
+22-04-26,120.57.115.173,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,India,AS17813,Mahanagar Telephone Nigam,MTNL Delhi
+22-04-26,1.0.156.203,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,92.175.250.254,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,France,AS3215,Orange,Ceva Freight Management France
+22-04-26,104.255.59.118,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Korea,AS16509,Amazon,Amazon
+22-04-26,1.0.138.14,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,104.209.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,66.249.67.64,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS15169,Google,Google
+22-04-26,27.7.214.126,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,India,AS17488,Hathway IP over Access,Hathway and Datacom
+22-04-26,120.253.245.128,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-01-06T15:21:49+00:00,China,AS24400,China Mobile,Amazon
+22-04-26,13.105.16.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Hong Kong,AS8075,Microsoft,Microsoft
+22-04-26,184.187.147.206,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS22773,Cox,Cox
+22-04-26,1.0.155.52,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,1.0.145.177,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,13.107.6.192,none,verified_service,0,0,5,Data Center/Web Hosting/Transit,14,1,2026-04-22T18:58:41+00:00,United States,AS8068,Microsoft,Microsoft
+22-04-26,13.107.22.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8068,Microsoft,Microsoft
+22-04-26,104.255.57.98,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Mexico,AS16509,Amazon,Amazon
+22-04-26,52.244.37.168,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,34.22.85.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2023-05-10T01:14:34+00:00,South Korea,AS396982,Google,Google
+22-04-26,34.65.242.112,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2025-10-16T13:35:16+00:00,Switzerland,AS396982,Google,Google
+22-04-26,92.173.152.190,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,France,AS3215,Orange,Ceva Freight Management France
+21-07-25,162.159.140.229,exploit_delivery,cloud_services,4,1,0,Content Delivery Network,"1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",8,2026-04-22T06:15:39+00:00,Canada,AS13335,Cloudflare,Cloudflare
+22-04-26,1.0.147.42,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2025-04-04T17:45:43+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,1.0.145.233,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,104.16.0.0,none,verified_service,0,0,0,Content Delivery Network,"18,19,21",1,2026-02-09T15:14:19+00:00,Canada,AS13335,Cloudflare,Cloudflare
+22-04-26,203.123.186.116,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,India,AS4637,Pacific India,Pacific India
+22-04-26,104.255.59.88,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Australia,AS16509,Amazon,Amazon
+22-04-26,102.37.192.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,South Africa,AS8075,Microsoft,Microsoft
+22-04-26,1.0.155.160,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,89.137.197.21,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Romania,AS12302,UPC,Unknown
+22-04-26,104.153.112.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS16509,Amazon,Amazon
+22-04-26,200.37.200.69,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Peru,AS6147,Telefonica,Zotac Tacna
+22-04-26,120.253.240.192,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2024-01-06T15:21:12+00:00,China,AS24400,China Mobile,Amazon
+22-04-26,13.104.253.48,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,1.0.148.19,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,104.214.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,139.134.5.51,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Australia,AS1221,Telstra,Telstra
+22-04-26,1.0.145.186,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+22-04-26,86.139.173.50,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United Kingdom,AS2856,BT,Unknown
+22-04-26,13.107.254.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8068,Microsoft,Microsoft
+29-08-25,91.245.253.99,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS9009,M247,M247
+19-02-26,144.31.238.37,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,7,1,2026-02-02T18:41:04+00:00,Germany,AS201988,VPSPay,VPSPay
+22-04-26,201.184.254.58,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Colombia,AS13489,EPM Telecomunicaciones S.A,EPM Telecomunicaciones S.A
+22-04-26,213.5.70.162,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Netherlands,AS51430,AltusHost B.V,AltusHost B.V
+22-04-26,104.210.192.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+20-02-26,134.122.140.89,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Japan,AS152194,CTG Server,Rackip Consultancy Pte
+22-04-26,98.243.171.106,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,United States,AS7922,Comcast,Comcast
+22-04-26,190.158.230.207,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Colombia,AS10620,Telmex,Telmex
+20-02-26,45.137.98.189,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Germany,AS49581,Ferdinand Zink trading as Tube,Unknown
+22-04-26,1.0.153.6,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Thailand,AS23969,TOT,TOT
+21-07-25,172.66.0.227,exploit_delivery,cloud_services,4,1,0,Content Delivery Network,"3,7,10,11,14,15,17,18,19,20,22",10,2026-04-22T06:21:12+00:00,Canada,AS13335,Cloudflare,Cloudflare
+29-08-25,144.172.79.4,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS14956,RouterHosting,FranTech
+22-04-26,91.221.103.173,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2023-09-28T05:18:01+00:00,Russia,AS205998,Skytel,Skytel
+18-02-26,204.12.218.202,unknown_attack,general_threat,3,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS32097,WholeSale,Clusters
+29-08-25,167.88.173.158,espionage,general_threat,1,1,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,AS14956,RouterHosting,FranTech
+22-04-26,1.10.150.30,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2021-08-04T05:21:09+00:00,Thailand,AS23969,TOT,TOT
+22-04-26,5.228.148.50,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,Russia,AS42610,National,Unknown
+22-04-26,111.13.185.64,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,Never_Reported,China,AS9808,China Mobile,Amazon
+22-04-26,104.255.59.91,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,2024-09-03T09:15:56+00:00,India,AS16509,Amazon,Amazon
+22-04-26,13.150.0.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Singapore,Unknown_ASN,Amazon,Amazon
+22-04-26,13.107.3.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Canada,AS8068,Microsoft,Microsoft
+22-04-26,13.105.96.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,Sweden,AS8075,Microsoft,Microsoft
+22-04-26,191.100.20.40,none,verified_service,0,0,0,Fixed Line ISP,No_Reports,0,2023-08-23T15:46:35+00:00,Ecuador,AS27668,ETAPA EP,ETAPA EP
+22-04-26,13.104.129.0,none,verified_service,0,0,0,Data Center/Web Hosting/Transit,No_Reports,0,Never_Reported,United States,AS8075,Microsoft,Microsoft
+22-04-26,185.193.56.18,none,verified_service,0,0,0,Commercial,No_Reports,0,2022-12-07T12:53:04+00:00,Bulgaria,AS42398,Comtech Bulgaria,Comtech Bulgaria
