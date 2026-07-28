@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+.myenv/
+myenv/
+
+# Distribution / packaging
+dist/
+build/
+downloads/
+catboost/
+Other/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# My API Keys (¡Importante!)
+.env
+keys.txt
+
+# Entornos virtuales y secretos
+.streamlit/
+myenv/
+data/myenv/
+
+# Archivos de respaldo
+*_original.py
+*.bak
+
+# Variables de entorno (¡Muy importante por seguridad!)
+.env
+.DS_Store
