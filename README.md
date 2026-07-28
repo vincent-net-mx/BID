@@ -6,7 +6,7 @@ Sistema de detección y análisis de riesgo para direcciones IPv4 basado en **In
 
 ## 📖 ¿Cómo nace BID?
 
-Todo desarrollo tiene un origen, y **BID (Bad IP Detector)** no nació en un entorno corporativo, sino como una iniciativa analítica en las aulas. El proyecto surgió originalmente como un trabajo escolar para la materia de **Probabilidad y Estadística**. Impulsado por el interés de aterrizar la teoría matemática en desafíos técnicos y reales de ciberseguridad, el concepto tomó forma mediante la asesoría y guía del profesor **Dr. Edgar Gonzalo Cossio Franco**.
+Todo desarrollo tiene un origen, y **BID (Bad IP Detector)** no nació en un entorno corporativo, sino como una iniciativa analítica en las aulas. El proyecto surgió originalmente como un trabajo escolar para la materia de **Probabilidad y Estadística**. Impulsado por el interés de aterrizar la teoría matemática en desafíos técnicos y reales de ciberseguridad, el concepto tomó forma mediante la asesoría y guía del **Dr. Edgar Gonzalo Cossio Franco**, nuestro profesor.
 
 Lo que comenzó como un ejercicio académico enfocado en crear un modelo de riesgo probabilístico utilizando la teoría bayesiana, evolucionó significativamente hasta convertirse en una herramienta que integra *Machine Learning* e inteligencia de amenazas para identificar direcciones IPv4 maliciosas.
 
