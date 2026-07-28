@@ -101,7 +101,7 @@ A continuación se detallan las fuentes utilizadas tanto para el enriquecimiento
     *Linux/Mac OS:*
     ```powershell
     1 python3 -m venv venv
-    2 source/bin/activate
+    2 source venv/bin/activate
     ```
 5. **Instala los requerimientos**.
     ```powershell
