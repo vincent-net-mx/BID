@@ -86,7 +86,7 @@ A continuación se detallan las fuentes utilizadas tanto para el enriquecimiento
     docker stop <ID_o_nombre_del_contenedor>
     ```
 4. **Navega hacia [http://localhost:8501](http://localhost:8501)**.
-### B) Despliegue con Python 🐍
+### B) Despliegue nativo con Python 🐍
 1. **Descarga el repositorio**.
     - A través de este [enlace](https://github.com/ArteAlex09/BID/archive/refs/heads/main.zip) (es necesario descomprimir el archivo).
     - O mediante Git: `git clone https://github.com/ArteAlex09/BID.git`
