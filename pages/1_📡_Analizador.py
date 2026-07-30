@@ -8,7 +8,7 @@ from predictor import ejecutar_prediccion_hibrida
 
 # --- CONFIGURACIÓN ---
 # Asegúrate de que el nombre del archivo coincida con tu modelo entrenado
-MODELO_IA_PATH = "data/training_BID_dataset.cbm"
+MODELO_IA_PATH = "data/modelo_bid.cbm"
 
 st.set_page_config(page_title="Analizador de IPs", page_icon="📡", layout="wide")
 st.title("📡 Simulador Probabilístico de IPs (BID System)")

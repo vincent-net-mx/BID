@@ -499,7 +499,7 @@ def tabla_latex(resumen: pd.DataFrame, caption="", label="tab:cv") -> str:
 # =========================================================================== #
 if __name__ == "__main__":
     CSV = "data/BID_dataset.csv"
-    MODELO = "modelo_bid.cbm"
+    MODELO = "data/modelo_bid.cbm"
     # Fecha de referencia FIJA: hace reproducible `days_since_last_report`.
     FECHA_REF = datetime(2026, 7, 28)
 
