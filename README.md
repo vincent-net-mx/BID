@@ -93,6 +93,7 @@ A continuación se detallan las fuentes utilizadas tanto para el enriquecimiento
 2. **Abre la consola (Windows) o terminal (Linux/Mac OS)**.
 3. **Dirígete hacia la ruta/carpeta del repositorio**.
 4. **Crea un entorno virtual**.
+   
     *Windows:*
     ```powershell
     1 python3 -m venv venv
@@ -103,11 +104,11 @@ A continuación se detallan las fuentes utilizadas tanto para el enriquecimiento
     1 python3 -m venv venv
     2 source venv/bin/activate
     ```
-5. **Instala los requerimientos**.
+6. **Instala los requerimientos**.
     ```powershell
     pip install -r requirements.txt
     ```
-6. **Crea un archivo de configuración del entorno (.env).**
+7. **Crea un archivo de configuración del entorno (.env).**
 - Cambia el nombre del archivo `.env.example` por `.env`.
 - Abre el archivo `.env` con cualquier editor de texto.
 - Sustituye la letra `x` por la **API Key** de AbuseIP que generaste.
